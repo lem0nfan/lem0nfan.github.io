@@ -2,13 +2,13 @@
 title: LemonFan
 email: auroravv@163.com
 description: Um lindo tema feito para jekyll e com o <3
-baseurl: "/zetsu"
-url: "https://lemonfan.me"
+baseurl: ""
+url: "https://www.lemonfan.me"
 
 author:
   name     : 'Fernando Moreira'
   email    : hi@nandomoreira.me
-  url      : https://lemonfan.me
+  url      : https://www.lemonfan.me
   facebook : http://facebook.com/fernando.dev
   twitter  : http://twitter.com/nandomoreirame
 
