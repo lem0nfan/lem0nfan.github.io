@@ -1,30 +1,51 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# Zetsu
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+> **Zetsu** - is a clean theme for Jekyll :smirk:
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+> :warning:
+  This theme requires ruby and rubygems installed
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
+* [x] Clean layout
+* [x] Resposive layout
+* [x] Preprocessor SASS
+* [x] CSS minified
+* [x] HTML minified
+* [x] Pagination
+* [x] Syntax highlight
+* [x] Author config
+* [x] Social links
+* [x] Share posts
+* [x] Comments with Disqus
 
-## Getting Started
+---
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+### Start in 4 steps
+
+1. Download or clone repo `git clone git@github.com:nandomoreirame/zetsu.git`
+2. Enter the folder: `cd zetsu/`
+3. Install Ruby gems: `bundle install`
+4. Start Jekyll server: `jekyll serve`
+
+Access, [localhost:4000/zetsu](http://localhost:4000/zetsu/)
+
+### Deploy in Github pages in 2 steps
+
+1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
+2. Run `rake site:publish` for build and publish on Github
+
+[Demo](https://nandomoreirame.github.io/zetsu/)
+
+![Zetsu - free Jekyll theme](/screenshot.png)
+
+---
+
+### Copyright and license
+
+It is under [the MIT license](/LICENSE).
+
+> :warning:
+  Please remove metas `<meta name="robots" content="noindex">` and `<meta name="googlebot" content="noindex">` in `_layouts/default.html`
+
+Enjoy :yum:
