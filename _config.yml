@@ -1,6 +1,6 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
+title: LemonFan
+email: auroravv@163.com
 description: Um lindo tema feito para jekyll e com o <3
 baseurl: "/zetsu"
 url: "https://lemonfan.me"
@@ -12,7 +12,7 @@ author:
   facebook : http://facebook.com/fernando.dev
   twitter  : http://twitter.com/nandomoreirame
 
-github: https://github.com/nandomoreirame/zetsu
+github: https://github.com/lem0nfan/lem0nfan.github.io
 disqus_shortname: "fernandomoreira"
 google_analytics: UA-52446115-1
 
