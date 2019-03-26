@@ -358,9 +358,12 @@ width:100px;
   float: left;
   margin-top: 0;
   margin-bottom: 0;
-  padding-right: 1.5rem;
+  padding-right: 2rem;
   //margin-left: 1rem;
   vertical-align: baseline;
+}
+header > nav  a:nth-child(3){
+  padding-right: 1.5rem;
 }
 header > nav a img{
   height: 5rem;
