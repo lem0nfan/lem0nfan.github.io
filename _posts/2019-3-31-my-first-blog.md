@@ -1,10 +1,3 @@
-
----
-layout: post
-title:  "第一篇博文"
-date:   2019-03-31 13:55:04
-categories: jekyll update
----
 ### 第一篇博文
 
 这是我的第一个个人博客网站，我一直都收藏着一段话
