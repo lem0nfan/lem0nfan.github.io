@@ -1,3 +1,10 @@
+---
+layout:		post
+title: 		my first blog
+date: 		2019-02-14 15:10:56
+author:		"lemonfan"
+---
+
 ### 第一篇博文
 
 这是我的第一个个人博客网站，我一直都收藏着一段话
