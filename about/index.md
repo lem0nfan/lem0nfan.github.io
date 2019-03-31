@@ -3,12 +3,12 @@ layout: full-width
 title: About
 ---
 
-The *Tufte-Jekyll* theme is a natural extension of the work done by [Edward Tufte](https://github.com/edwardtufte/tufte-css) and his collaborators on Github who created a CSS file that allows web writers to use the same simple and elegant style employed in his published materials.
+一名95后在校大学生，所学专业侧重于网站开发，喜爱编程，平常也看点心理学相关的内容。平时爱好散步，
 
-To incorporate these styles into a Jekyll theme, I have made some very slight modifications that attempt to maintain the feel of the CSS styles in his Github repo.
+看书，听音乐，也喜欢交朋友。
 
-Note that this is a full-width layout. This was accomplished by including ```layout: full-width``` in the YAML front matter for this page. Keep in mind that all the Tufte-Jekyll sidenote and marginnote goodness will not work on full-width layouts! 
+希望就是能靠自己的能力赚很多的钱，去完成以前定下的理想，带父母出国旅游，看下国内外的美丽风景，开阔自
 
-You can find the source code for Jekyll at [github.com/lem0nfan](https://github.com/lem0nfan).
+己的视野，开一间属于自己的咖啡馆，认识很多的人，或许以后还有更多想法，但现在为这两个目标而努力着。
 
 
