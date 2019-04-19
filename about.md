@@ -4,7 +4,9 @@ title: About Me
 ---
 <style>
 	table{
+		background:none;
 		border:none;
+		width:;
 	}
 	#left{
 		text-align:right;
@@ -25,20 +27,28 @@ title: About Me
 	<tr>
 		<td id="left">CSS:</td>
 		<td id="right">★★★☆☆</td>
+		<td id="left">Git:</td>
+		<td id="right">★★☆☆☆</td>
 	</tr>
 	<tr>
 		<td id="left">Javascript:</td>
+		<td id="right">★★☆☆☆</td>
+		<td id="left">Markdown:</td>
 		<td id="right">★★★☆☆</td>
 	</tr>
 	<tr>
 		<td id="left">Php:</td>
-		<td id="right">★★★☆☆</td>
+		<td id="right">★★☆☆☆</td>
+		<!-- <td id="left">CSS:</td>
+		<td id="right">★★★☆☆</td> -->
 	</tr>
 	<tr>
-		<td id="left">Ps:</td>
+		<td id="left">PhotoShop:</td>
 		<td id="right">★★★☆☆</td>
+		<!-- <td id="left">CSS:</td>
+		<td id="right">★★★☆☆</td> -->
 	</tr>
 	</table>
 	<h3>End</h3>
-		<p>人生很短，想做就去做</p>
+		<p class="intro">人生很短，想做就去做</p>
 </div>
