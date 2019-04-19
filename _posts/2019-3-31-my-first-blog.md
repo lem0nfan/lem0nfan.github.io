@@ -1,6 +1,6 @@
 ---
 layout:		post
-title: 		my first blog
+title: 		My First Blog
 date: 		2019-03-31 14:10:56
 author:		"lemonfan"
 ---
