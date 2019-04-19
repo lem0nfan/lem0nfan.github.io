@@ -15,13 +15,7 @@ title: About Me
 			<li>&nbsp;&nbsp; CSS: ★★★☆☆</li>
   		<li>Javascript: ★★★☆☆</li>
   		<li>&nbsp;&nbsp; Php: ★★★☆☆</li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+  		<li></li>
   	</ul>
 		<h3>End</h3>
 		<p>人生很短，想做就去做</p>
