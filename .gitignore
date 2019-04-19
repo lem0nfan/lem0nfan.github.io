@@ -1,4 +1,5 @@
 _site
 .sass-cache
-.DS\_Store
-config.codekit
+.DS_Store
+.ruby-version
+node_modules
