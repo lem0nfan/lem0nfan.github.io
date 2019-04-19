@@ -2,7 +2,7 @@ title: LemonFan
 description:Personal blog
 
 url: https://github.com/lem0nfan
-baseurl: "lemonfan.me"
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
