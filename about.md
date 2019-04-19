@@ -10,11 +10,10 @@ title: About Me
 	}
 	#left{
 		text-align:right;
+		border-right:none;
 	}
 	#right{
 		text-align:left;
-	}
-	td{
 		border-right:none;
 	}
 </style>
