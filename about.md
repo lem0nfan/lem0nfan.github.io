@@ -6,7 +6,8 @@ title: About Me
 <div class="post">
 	<h1 class="pageTitle">About Me</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
+	<h2>who I am</h2>
+	<p class="intro">我叫赵羲凡 95后在校大学生，前端学习开发者，所学专业为网站开发，热爱编程，</p>
 	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
 	<h2>Features</h2>
 	<ul>
