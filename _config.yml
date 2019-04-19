@@ -1,8 +1,8 @@
 title: LemonFan
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description:Personal blog
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: ""
+url: https://github.com/lem0nfan
+baseurl: "lemonfan.me"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
