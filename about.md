@@ -14,6 +14,9 @@ title: About Me
 	#right{
 		text-align:left;
 	}
+	td{
+		border-right:none;
+	}
 </style>
 <div class="post">
 	<h1 class="pageTitle">About Me</h1>
