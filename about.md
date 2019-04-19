@@ -2,6 +2,17 @@
 layout: default
 title: About Me
 ---
+<style>
+	table{
+		border:none;
+	}
+	#left{
+		text-align:right;
+	}
+	#right{
+		text-align:left;
+	}
+</style>
 <div class="post">
 	<h1 class="pageTitle">About Me</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
