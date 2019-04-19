@@ -12,9 +12,9 @@ title: About Me
 	<p class="intro">创建这个博客网站是为了让自己在学习的过程中进行总结，同时进行技术的分享，当然，现在技术水平还不够，只希望分享的内容能给刚好有需要的朋友一点帮助，同时也希望能够通过这个网站认识一些志同道合的朋友，共同进步成长</p>
 	<h3>My skills</h3>
 	<ul>
-			<li>&nbsp; CSS: ★★★☆☆</li>
+			<li>&nbsp;&nbsp; CSS: ★★★☆☆</li>
   		<li>Javascript: ★★★☆☆</li>
-  		<li>&nbsp; Php: ★★★☆☆</li>
+  		<li>&nbsp;&nbsp; Php: ★★★☆☆</li>
   		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
   		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
       <li>5 Post Loop with excerpt on Home Page</li>
@@ -24,5 +24,5 @@ title: About Me
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
 		<h3>End</h3>
-		<p></p>
+		<p>人生很短，想做就去做</p>
 </div>
