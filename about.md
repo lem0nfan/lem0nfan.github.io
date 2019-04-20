@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 <style>
-	table{
+	/*table{
 		background:none;
 		border:none;
 		width:97%;
@@ -21,8 +21,13 @@ title: About Me
 		background:none;
 	}
 	tr:nth-child(2n) {
-		/* background-color: #f7f7f7; */
-		background-color:none;
+		background-color: #f7f7f7;
+	} */
+	li{
+		text-align:left;
+	}
+	span{
+		text-align:right;
 	}
 </style>
 <div class="post">
@@ -33,9 +38,9 @@ title: About Me
 	<h3>Why I create this blog</h3>
 	<p class="intro">创建这个博客网站是为了让自己在学习的过程中进行总结，同时进行技术的分享，当然，现在技术水平还不够，只希望分享的内容能给刚好有需要的朋友一点帮助，同时也希望能够通过这个网站认识一些志同道合的朋友，共同进步成长</p>
 	<h3>My skills</h3>
-	<table>
+	<!-- <table>
 	<tr>
-		<td id="left">CSS:</td>
+		<td id="left"></td>
 		<td id="right">★★★☆☆</td>
 	</tr>
 	<tr>
@@ -58,7 +63,15 @@ title: About Me
 		<td id="left">Markdown:</td>
 		<td id="right">★★★☆☆</td>
 	</tr>
-	</table>
+	</table> -->
+	<ul>
+	<li><span>CSS:</span>★★★☆☆</li>
+	<li><span>Javascript:</span>★★☆☆☆</li>
+	<li><span>PHP:</span>★★☆☆☆</li>
+	<li><span>PhotoShop:</span>★★★☆☆</li>
+	<li><span>Git:</span>★★☆☆☆</li>
+	<li><span>Markdown:</span>★★★☆☆</li>
+	</ul>
 	<h3>End</h3>
 		<p class="intro">人生很短，想做就去做</p>
 </div>
