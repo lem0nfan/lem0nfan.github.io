@@ -6,7 +6,7 @@ title: About Me
 	table{
 		background:none;
 		border:none;
-		width:;
+		width:97%;
 	}
 	#left{
 		text-align:right;
@@ -18,6 +18,11 @@ title: About Me
 	}
 	td{
 		border-right: none;
+		background:none;
+	}
+	tr:nth-child(2n) {
+		/* background-color: #f7f7f7; */
+		background-color:none;
 	}
 </style>
 <div class="post">
@@ -32,26 +37,26 @@ title: About Me
 	<tr>
 		<td id="left">CSS:</td>
 		<td id="right">★★★☆☆</td>
-		<td id="left">Git:</td>
-		<td id="right">★★☆☆☆</td>
 	</tr>
 	<tr>
 		<td id="left">Javascript:</td>
 		<td id="right">★★☆☆☆</td>
-		<td id="left">Markdown:</td>
-		<td id="right">★★★☆☆</td>
 	</tr>
 	<tr>
 		<td id="left">Php:</td>
 		<td id="right">★★☆☆☆</td>
-		<!-- <td id="left">CSS:</td>
-		<td id="right">★★★☆☆</td> -->
 	</tr>
 	<tr>
 		<td id="left">PhotoShop:</td>
 		<td id="right">★★★☆☆</td>
-		<!-- <td id="left">CSS:</td>
-		<td id="right">★★★☆☆</td> -->
+	</tr>
+	<tr>
+		<td id="left">Git:</td>
+		<td id="right">★★☆☆☆</td>
+	</tr>
+	<tr>
+		<td id="left">Markdown:</td>
+		<td id="right">★★★☆☆</td>
 	</tr>
 	</table>
 	<h3>End</h3>
