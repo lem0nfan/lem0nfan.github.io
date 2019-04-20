@@ -68,9 +68,9 @@ title: About Me
 	<li><span>Git:</span>★★☆☆☆</li>
 	<li><span>CSS:</span>★★★☆☆</li>
 	<li><span>PHP:</span>★★☆☆☆</li>
+	<li><span>Javascript:</span>★★☆☆☆</li>
 	<li><span>Markdown:</span>★★★☆☆</li>
 	<li><span>PhotoShop:</span>★★★☆☆</li>
-	<li><span>Javascript:</span>★★☆☆☆</li>
 	</ul>
 	<h3>End</h3>
 		<p class="intro">人生很短，想做就去做</p>
