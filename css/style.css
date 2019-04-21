@@ -455,13 +455,13 @@ h4, .h4 {
     line-height: 1.22222222; } }
 
 blockquote {
-  font-size: 1.25em;
-  line-height: 1.25;
+  font-size: 1em;
+  line-height: 1;
   padding: 0; }
 
 @media (min-width: 43.75em) {
   blockquote {
-    font-size: 1.5em;
+    font-size: 1.1em;
     line-height: 1.45833333; } }
 
 /***************
@@ -894,8 +894,8 @@ POST STYLING
 POST NAV STYLING
 ***************/
 .postNav {
-  /* border-top: 1px solid #e6e6e6;
-  border-bottom: 1px solid #e6e6e6; */
+  border-top: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
   overflow: hidden; }
   .postNav .prev, .postNav .next {
     display: block;
