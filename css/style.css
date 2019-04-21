@@ -455,8 +455,8 @@ h4, .h4 {
     line-height: 1.22222222; } }
 
 blockquote {
-  font-size: 1em;
-  line-height: 1;
+  font-size: 1.2em;
+  line-height: 1.2;
   padding: 0; }
 
 @media (min-width: 43.75em) {
