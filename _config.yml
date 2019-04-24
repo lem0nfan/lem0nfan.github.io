@@ -17,7 +17,7 @@ navigation:
   - title: About
     url: /about
   - title: Daily
-    url: /_dailys/contact
+    url: /contact
 
 social:
   github: lem0nfan
