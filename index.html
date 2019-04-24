@@ -9,8 +9,8 @@ title: LemonFan
     {% for post in paginator.posts %}
       <li>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
+        <h3><a class="post-link" href="{{ daily.url | prepend: site.baseurl }}">{{ daily.title }}</a></h3>
+        <p>{% if daily.description %}{{ daily.description }}{% else %}{{ daily.excerpt | strip_html }}{% endif %}</p>
       </li>
     {% endfor %}
   </ul>
